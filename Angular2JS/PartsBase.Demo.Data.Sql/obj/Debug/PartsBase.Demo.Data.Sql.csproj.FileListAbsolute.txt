@@ -1,0 +1,14 @@
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\PartsBase.Demo.Data.Sql.dll.config
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\PartsBase.Demo.Data.Sql.dll
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\PartsBase.Demo.Data.Sql.pdb
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\EntityFramework.dll
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\PartsBase.Demo.Common.dll
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\PartsBase.Demo.Model.dll
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\PartsBase.Demo.Common.pdb
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\PartsBase.Demo.Model.pdb
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\EntityFramework.xml
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\obj\Debug\PartsBase.Demo.Data.Sql.csprojResolveAssemblyReference.cache
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\obj\Debug\PartsBase.Demo.Data.Sql.dll
+C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Data.Sql\obj\Debug\PartsBase.Demo.Data.Sql.pdb

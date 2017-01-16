@@ -1,0 +1,29 @@
+﻿@using UBS.Site.Demo.Models;
+@using System.Linq;
+
+@model List<QuoteViewModel>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                @Html.LabelFor(m => Model.FirstOrDefault().QuoteNumber)
+            </th>
+            <th>
+                @Html.LabelFor(m => Model.FirstOrDefault().CreatedBy)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.TextBoxFor(m => item.QuoteNumber)</td>
+                <td>@Html.TextBoxFor(m => item.CreatedBy)</td>
+            </tr>
+            
+        }        
+    </tbody>
+</table>
+
