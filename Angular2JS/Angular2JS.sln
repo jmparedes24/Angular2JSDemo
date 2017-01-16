@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartsBase.Demo.Model", "Par
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBS.Site.Demo", "UBS.Site.Demo\UBS.Site.Demo.csproj", "{8152C086-5892-4A3E-A4E7-35DD639475DB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBases", "DataBases", "{B499AED2-85DD-4A6E-B73D-A75867C6D862}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PartsBaseDemo", "PartsBaseDemo\PartsBaseDemo.sqlproj", "{38483688-92E8-409C-A457-408AF96AE4DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +37,17 @@ Global
 		{8152C086-5892-4A3E-A4E7-35DD639475DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8152C086-5892-4A3E-A4E7-35DD639475DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8152C086-5892-4A3E-A4E7-35DD639475DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38483688-92E8-409C-A457-408AF96AE4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38483688-92E8-409C-A457-408AF96AE4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38483688-92E8-409C-A457-408AF96AE4DB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{38483688-92E8-409C-A457-408AF96AE4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38483688-92E8-409C-A457-408AF96AE4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38483688-92E8-409C-A457-408AF96AE4DB}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38483688-92E8-409C-A457-408AF96AE4DB} = {B499AED2-85DD-4A6E-B73D-A75867C6D862}
 	EndGlobalSection
 EndGlobal
