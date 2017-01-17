@@ -8,3 +8,8 @@ C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\bin\D
 C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\obj\Debug\PartsBase.Demo.Model.csprojResolveAssemblyReference.cache
 C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\obj\Debug\PartsBase.Demo.Model.dll
 C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\obj\Debug\PartsBase.Demo.Model.pdb
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\bin\Debug\PartsBase.Demo.Model.dll
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\bin\Debug\PartsBase.Demo.Model.pdb
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\obj\Debug\PartsBase.Demo.Model.csprojResolveAssemblyReference.cache
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\obj\Debug\PartsBase.Demo.Model.dll
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Model\obj\Debug\PartsBase.Demo.Model.pdb

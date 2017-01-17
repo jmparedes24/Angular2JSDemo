@@ -8,16 +8,20 @@ export class DataService{
 	private baseUrl: string = 'http://localhost/UBS.Site.Demo/Home';
 
 	constructor(private http : Http){
-	}
+    }
+
+    private extractData(res: Response) {
+        if (res.status < 200 || res.status >= 300) {
+            throw new Error('Bad response status: ' + res.status);
+        }
+        let body = res.json();
+        return body.data || {};
+    }
 
 	getAll(): Observable<Data[]>{
-		let allData$ = this.http
-		.get(`${this.baseUrl}/GetQuotesJson`, {headers: this.getHeaders()})
-		.map(function(res){
-            return <Data> res.json();
-        })
-		.catch(this.handleError);
-		return allData$;
+        return this.http.get(`${this.baseUrl}/GetQuotesJson`, { headers: this.getHeaders() })
+            .map((res) => this.extractData(res))
+            .catch((err) => this.handleError(err));
 	}
 
 	private getHeaders(){
