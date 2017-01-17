@@ -16,15 +16,28 @@ var DataService = (function () {
         this.http = http;
         this.baseUrl = 'http://localhost/UBS.Site.Demo/Home';
     }
-    DataService.prototype.getAll = function () {
-        var allData$ = this.http
-            .get(this.baseUrl + "/GetQuotesJson", { headers: this.getHeaders() })
-            .map(function (res) {
-            return res.json();
-        })
-            .catch(this.handleError);
-        return allData$;
+    DataService.prototype.extractData = function (res) {
+        if (res.status < 200 || res.status >= 300) {
+            throw new Error('Bad response status: ' + res.status);
+        }
+        var body = res.json();
+        return body.data || {};
     };
+    DataService.prototype.getAll = function () {
+        var _this = this;
+        return this.http.get(this.baseUrl + "/GetQuotesJson", { headers: this.getHeaders() })
+            .map(function (res) { return _this.extractData(res); })
+            .catch(function (err) { return _this.handleError(err); });
+    };
+    //getAll(): Observable<Data[]>{
+    //	let allData$ = this.http
+    //	.get(`${this.baseUrl}/GetQuotesJson`, {headers: this.getHeaders()})
+    //	.map(function(res){
+    //           return <Data> res.json();
+    //       })
+    //	.catch(this.handleError);
+    //	return allData$;
+    //}
     DataService.prototype.getHeaders = function () {
         var headers = new http_1.Headers();
         headers.append('Accept', 'application/json');

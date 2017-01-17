@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { DataService } from './data.service';
+import {Observable} from 'rxjs/Rx';
+import 'rxjs/add/operator/map';
 
 @Component({
   selector: 'my-app',

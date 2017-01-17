@@ -1,14 +1,10 @@
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.dacpac
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.dll
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.pdb
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\Model.xml
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\refactor.xml
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\postdeploy.sql
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\predeploy.sql
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\PartsBaseDemo.dll
-C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\PartsBaseDemo.pdb
 C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.dacpac
 C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.dll
 C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.pdb
 C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\PartsBaseDemo.dll
 C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\PartsBaseDemo.pdb
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.dacpac
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.dll
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\bin\Debug\PartsBaseDemo.pdb
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\PartsBaseDemo.dll
+C:\Users\Juan Manuel Paredes\Source\Repos\Angular2JSDemo\Angular2JS\PartsBaseDemo\obj\Debug\PartsBaseDemo.pdb
