@@ -5,7 +5,7 @@ import { DataListComponent } from './data-list.component';
 const routes: Routes = [
   // map '/allData' to the people list component
   {
-    path: 'allData',
+    path: '/',
     component: DataListComponent,
   },
   // map '/' to '/allData' as our default route

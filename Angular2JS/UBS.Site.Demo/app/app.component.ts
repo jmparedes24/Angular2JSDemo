@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { DataService } from './data.service';
-import {Observable} from 'rxjs/Rx';
 import 'rxjs/add/operator/map';
 
 @Component({
@@ -12,5 +11,5 @@ import 'rxjs/add/operator/map';
   providers: [DataService]
 })
 export class AppComponent {
-  title:string = 'Get All Data!';
+  title: string = 'Get All Data!';
 }

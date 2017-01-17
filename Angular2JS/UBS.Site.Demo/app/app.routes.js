@@ -5,7 +5,7 @@ var data_list_component_1 = require('./data-list.component');
 var routes = [
     // map '/allData' to the people list component
     {
-        path: 'allData',
+        path: '/',
         component: data_list_component_1.DataListComponent,
     },
     // map '/' to '/allData' as our default route

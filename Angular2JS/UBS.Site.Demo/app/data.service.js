@@ -42,7 +42,7 @@ var DataService = (function () {
         return Rx_1.Observable.throw(errorMsg);
     };
     DataService = __decorate([
-        //Model
+        // Model
         core_1.Injectable(), 
         __metadata('design:paramtypes', [http_1.Http])
     ], DataService);
