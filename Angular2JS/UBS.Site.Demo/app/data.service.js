@@ -21,7 +21,7 @@ var DataService = (function () {
             throw new Error('Bad response status: ' + res.status);
         }
         var body = res.json();
-        return body.data || {};
+        return body || {};
     };
     DataService.prototype.getAll = function () {
         var _this = this;

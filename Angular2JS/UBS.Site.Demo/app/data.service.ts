@@ -15,7 +15,7 @@ export class DataService{
             throw new Error('Bad response status: ' + res.status);
         }
         let body = res.json();
-        return body.data || {};
+        return body || {};
     }
 
 	getAll(): Observable<Data[]>{
