@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Angular2JS/PartsBaseDemo/PartsBaseDemo.jfm
+/Angular2JS/UBS.Site.Demo/node_modules
+/Angular2JS/UBS.Site.Demo/typings
+/Angular2JS/PartsBaseDemo
