@@ -5,13 +5,13 @@ import { DataListComponent } from './data-list.component';
 const routes: Routes = [
   // map '/allData' to the people list component
   {
-    path: '/',
+    path: 'Home',
     component: DataListComponent,
   },
   // map '/' to '/allData' as our default route
   {
     path: '',
-    redirectTo: '/allData',
+    redirectTo: '/Home',
     pathMatch: 'full'
   },
 ];

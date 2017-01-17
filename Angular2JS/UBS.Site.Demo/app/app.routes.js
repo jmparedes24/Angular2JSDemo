@@ -5,13 +5,13 @@ var data_list_component_1 = require('./data-list.component');
 var routes = [
     // map '/allData' to the people list component
     {
-        path: '/',
+        path: 'Home',
         component: data_list_component_1.DataListComponent,
     },
     // map '/' to '/allData' as our default route
     {
         path: '',
-        redirectTo: '/allData',
+        redirectTo: '/Home',
         pathMatch: 'full'
     },
 ];
