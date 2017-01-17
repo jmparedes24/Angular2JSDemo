@@ -12,3 +12,17 @@ C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\Pa
 C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Common\obj\Debug\PartsBase.Demo.Common.csprojResolveAssemblyReference.cache
 C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Common\obj\Debug\PartsBase.Demo.Common.dll
 C:\Users\Juan Manuel Paredes\documents\visual studio 2015\Projects\Angular2JS\PartsBase.Demo.Common\obj\Debug\PartsBase.Demo.Common.pdb
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\PartsBase.Demo.Common.dll.config
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\PartsBase.Demo.Common.dll
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\PartsBase.Demo.Common.pdb
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\AutoMapper.dll
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\EntityFramework.dll
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\PartsBase.Demo.Model.dll
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\PartsBase.Demo.Model.pdb
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\AutoMapper.xml
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\EntityFramework.xml
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\obj\Debug\PartsBase.Demo.Common.csprojResolveAssemblyReference.cache
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\obj\Debug\PartsBase.Demo.Common.dll
+C:\Users\rm_sa\Source\Repos\Angular2JSDemo\Angular2JS\PartsBase.Demo.Common\obj\Debug\PartsBase.Demo.Common.pdb
