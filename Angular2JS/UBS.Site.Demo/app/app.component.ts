@@ -8,6 +8,8 @@ import 'rxjs/add/operator/map';
   <h1> {{title}} </h1>
   <router-outlet>
   `,
+  /* The RouterOutlet is a directive from the router library
+  that marks the spot in the template where the router should display the views for that outlet. */
   providers: [DataService]
 })
 export class AppComponent {

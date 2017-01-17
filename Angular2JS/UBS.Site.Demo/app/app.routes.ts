@@ -1,7 +1,7 @@
 import { Routes, RouterModule } from '@angular/router';
 import { DataListComponent } from './data-list.component';
 
-// Route config let's you map routes to components
+// Route table let's you map routes to components
 const routes: Routes = [
   // map '/Home' to the people list component
   {
