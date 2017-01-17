@@ -1,0 +1,30 @@
+﻿<section>
+    <section *ngIf="isLoading && !errorMessage">
+        Loading...
+    </section>
+    <table>
+        <tr>
+            <td>Quote Id</td>
+            <td>Quote Number</td>
+            <td>Client Quote Id</td>
+            <td>Created By</td>
+        </tr>
+        <tr *ngFor="let data of allData">
+            <td>
+                {{data.QuoteId}}
+            </td>
+            <td>
+                {{data.QuoteNumber}}
+            </td>
+            <td>
+                {{data.ClientQuoteId}}
+            </td>
+            <td>
+                {{data.CreatedBy}}
+            </td>
+        </tr>
+    </table>
+    <section *ngIf="errorMessage">
+        {{errorMessage}}
+    </section>
+</section>
