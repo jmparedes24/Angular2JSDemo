@@ -10,7 +10,6 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var data_service_1 = require('./data.service');
-require('rxjs/add/operator/map');
 var AppComponent = (function () {
     function AppComponent() {
         this.title = 'Get All Data!';

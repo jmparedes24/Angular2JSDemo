@@ -10,28 +10,15 @@ export class DataService{
 	constructor(private http : Http){
 	}
 
-    private extractData(res: Response) {
-        if (res.status < 200 || res.status >= 300) {
-            throw new Error('Bad response status: ' + res.status);
-        }
-        let body = res.json();
-        return body.data || {};
-    }
-
-    getAll(): Observable<Data[]> {
-        return this.http.get(`${this.baseUrl}/GetQuotesJson`, { headers: this.getHeaders() })
-            .map((res) => <Data[]> this.extractData(res))
-            .catch((err) => this.handleError(err));
-    }
-	//getAll(): Observable<Data[]>{
-	//	let allData$ = this.http
-	//	.get(`${this.baseUrl}/GetQuotesJson`, {headers: this.getHeaders()})
-	//	.map(function(res){
- //           return <Data> res.json();
- //       })
-	//	.catch(this.handleError);
-	//	return allData$;
-	//}
+	getAll(): Observable<Data[]>{
+		let allData$ = this.http
+		.get(`${this.baseUrl}/GetQuotesJson`, {headers: this.getHeaders()})
+		.map(function(res){
+            return <Data> res.json();
+        })
+		.catch(this.handleError);
+		return allData$;
+	}
 
 	private getHeaders(){
 		let headers = new Headers();
