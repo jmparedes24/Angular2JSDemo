@@ -2,6 +2,8 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
+    <!-- You must add a <base href> element tag to make pushState routing work.-->
+    <!-- Browser also needs the base href value to prefix relative URLs when downloading and linking to css files, scripts, and images. -->
     <base href="/UBS.Site.Demo/">
     <title>@ViewBag.Title</title>
     @Styles.Render("~/Content/css")
